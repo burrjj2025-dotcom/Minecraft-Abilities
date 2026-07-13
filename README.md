@@ -1,2 +1,2 @@
 # Minecraft-Abilities
-gives players abilities in the form of /effect. but in a safe controlled way. use this plugin instead of giving everyone op on a cheat server
+Gives players abilities in the form of /effect. But in a safe, controlled way. Use this plugin instead of giving everyone op on a cheat server. I also lost the source code of this project due to an OS reinstall.
